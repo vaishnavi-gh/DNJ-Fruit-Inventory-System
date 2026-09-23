@@ -1,0 +1,1 @@
+DNJ Fruit Merchant & Commission Agent is a business management project developed for a wholesale fruit trading business located at A.P.M.C Fruit Market, Vashi, Navi Mumbai. Established in 1980, the business operates as a middle agent, connecting fruit suppliers with customers and managing wholesale fruit transactions.
